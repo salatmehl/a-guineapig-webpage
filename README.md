@@ -1,2 +1,2 @@
 # guineapig
-a page to practice RegEx and GTM tags/variables;
+This is a page I use to practice RegEx and set up GTM tags/variables.
